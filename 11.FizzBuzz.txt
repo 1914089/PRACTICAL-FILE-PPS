@@ -1,0 +1,16 @@
+#include<stdio.h>
+int main()
+{
+int FizzBuzz;
+printf("Enter any number");
+scanf("%d",&FizzBuzz);
+if (FizzBuzz%15 == 0)
+printf("FizzBuzz");
+else if (FizzBuzz%3 == 0)
+printf("Fizz");
+else if (FizzBuzz%5 == 0)
+printf("Buzz");
+return 0;
+}   
+    
+    

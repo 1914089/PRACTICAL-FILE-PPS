@@ -1,0 +1,15 @@
+#include<stdio.h>
+int main()
+{
+int Sum=0,number;
+number=1;
+while(number<=100)
+{
+Sum+=number;
+number++;
+}
+printf("Sum of first 100 positive integer numbers=%d\n",Sum);
+return 0;
+}
+
+    
