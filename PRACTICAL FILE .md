@@ -1,9 +1,0 @@
-# PRACTICAL FOR PROBLEM SOLVING
-
-RITIK SAGAR NISHAD
-
-1914089
-
-CE B2
-
-![RITIK](https://raw.githubusercontent.com/1914089/PRACTICAL-FILE-PPS/master/index.jpeg)
